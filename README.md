@@ -1,4 +1,4 @@
-#Data-Analysis-for-Hotel-Bookings
+# Data-Analysis-for-Hotel-Bookings
 This project involves data cleaning, exploratory data analysis (EDA), feature engineering, and predictive modeling to forecast hotel booking cancellations. Insights from the analysis aim to optimize operations and enhance customer satisfaction.
 
 Moving forward, there are several avenues for further exploration and improvement based on the findings of this analysis:
